@@ -14,6 +14,8 @@ while age != int and repetitions != int:
 
 print(f'{name}, you will turn 100 in year {(year-age)+100} \n' * repetitions)
 
-#Works aswell
-#for i in range(repetitions):
-#    print(f'{name}, you will turn 100 in year {(year-age)+100}')
+'''
+Works aswell
+for i in range(repetitions):
+    print(f'{name}, you will turn 100 in year {(year-age)+100}')
+'''
