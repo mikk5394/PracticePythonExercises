@@ -1,5 +1,3 @@
-
-
 number = int(input('Type a number: '))
 
 if number == 4:
